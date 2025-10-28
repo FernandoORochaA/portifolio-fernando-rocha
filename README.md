@@ -38,7 +38,7 @@ Você pode acessar o site online pelo GitHub Pages neste link:
 
 ## 📷 Prévia
 
-![Imagem da tela de início]([assets/Previa.png](https://raw.githubusercontent.com/FernandoORochaA/portfolio-fernando-rocha/main/assets/Previa.png)
+![Imagem da tela de início](https://raw.githubusercontent.com/FernandoORochaA/portfolio-fernando-rocha/main/assets/Previa.png)
 
 ---
 
