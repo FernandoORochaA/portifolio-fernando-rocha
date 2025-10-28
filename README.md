@@ -32,7 +32,7 @@ O site conta com:
 ## 🤔 Como visualizar o portfólio
 
 Você pode acessar o site online pelo GitHub Pages neste link:  
-➡️ [**Ver Portfólio Online**]([https://fernandoorochaa.github.io/portfolio-fernando-rocha/](https://fernandoorochaa.github.io/portifolio-fernando-rocha/index.html)
+➡️ [**Ver Portfólio Online**](https://fernandoorochaa.github.io/portifolio-fernando-rocha/index.html)
 
 ---
 
