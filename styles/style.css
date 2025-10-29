@@ -147,7 +147,10 @@ body {
     margin-bottom: 1rem;
     
 }
-@media (max-width: 1200px) {
+
+/* Previa mobile */
+
+@media (max-width: 1000px) {
     .cabecalho {
         padding: 10%;
     }
@@ -165,4 +168,39 @@ body {
         width: auto;
     }
     
+}
+
+/* Tela intermediaria */
+
+@media (max-width: 1300px) {
+     .apresentacao {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        gap: 3rem; /* Espaço entre texto e imagem */
+        padding: 8% 10%;
+    }
+
+    .apresentacao__imagem {
+        width: 60%;
+        max-width: 420px;
+        height: auto;
+    }
+
+    .apresentacao__conteudo {
+        width: 100%;
+    }
+
+    .apresentacao__paragrafo {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+
+    .apresentacao__links {
+        width: 100%;
+    }
+
+    .apresentacao__links__navegacao {
+        width: 60%;
+    }
 }
