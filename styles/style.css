@@ -232,6 +232,8 @@ body {
         line-height: 1.6;
         padding: 0 4%;
         text-align: justify;
+        hyphens: auto;
+        word-break: normal;
     }
 
     .apresentacao__links {
