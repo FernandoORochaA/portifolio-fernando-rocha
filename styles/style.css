@@ -251,4 +251,24 @@ body {
         width: 22px;
         height: 22px;
     }
+
+    .apresentacao__lista,
+    .apresentacao__estudos {
+        list-style-position: inside; /* aproxima a bolinha do texto */
+        padding-left: 0;             /* remove o recuo exagerado padrão */
+        margin-left: 4%;             /* mantém alinhamento com os parágrafos */
+    }
+
+    .apresentacao__lista li,
+    .apresentacao__estudos li {
+        font-size: 1rem;             /* para manter leitura confortável */
+        line-height: 1.6;
+        text-align: left;            /* evita justificar e criar espaços estranhos */
+        margin-bottom: 0.75rem;      /* espaço consistente entre itens */
+    }
+
+    .apresentacao__lista li::marker,
+    .apresentacao__estudos li::marker {
+        color: var(--cor-terciaria);
+    }
 }
