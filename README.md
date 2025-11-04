@@ -16,8 +16,6 @@ O site conta com:
 - Seção “Experiência” com histórico de trabalho e formações;
 - Layout responsivo e estilizado com variáveis de cor e tipografia.
 
-📝 **Observação:** restando apenas ajustar o layout para melhor visualização em dispositivos móveis.
-
 ---
 
 ## 🔧 Tecnologias utilizadas
