@@ -271,4 +271,11 @@ body {
     .apresentacao__estudos li::marker {
         color: var(--cor-terciaria);
     }
+
+    .apresentacao__links__navegacao:hover {
+        background-color: var(--cor-hover);
+        width: 100%;
+        transform: none;
+        transition: background-color 0.3s ease;
+    }
 }
