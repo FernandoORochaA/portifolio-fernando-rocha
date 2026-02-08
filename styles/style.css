@@ -176,7 +176,8 @@ body {
     .apresentacao__imagem__curriculo {
         width: 60%;
         max-width: 420px;
-        height: auto;
+        position: static;
+        top: auto;
 }
 
     .apresentacao__conteudo {
