@@ -55,7 +55,7 @@ body {
 .apresentacao {
     padding: 5% 25%;
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
     flex: 1;
     gap: 82px;
@@ -118,6 +118,11 @@ body {
     width: 50%;
     max-width: 560px;
     height: auto;
+}
+
+.apresentacao__imagem__curriculo {
+    width: 50%;
+    max-width: 560px;
     align-self: flex-start;
     position: sticky;
     top: 2rem;
@@ -167,6 +172,11 @@ body {
         max-width: 420px;
         height: auto;
     }
+
+    .apresentacao__imagem__curriculo {
+    position: static;
+    top: auto;
+}
 
     .apresentacao__conteudo {
         width: 100%;
