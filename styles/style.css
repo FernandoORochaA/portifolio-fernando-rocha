@@ -178,6 +178,7 @@ body {
         max-width: 420px;
         position: static;
         top: auto;
+        margin: 0 auto;
 }
 
     .apresentacao__conteudo {
