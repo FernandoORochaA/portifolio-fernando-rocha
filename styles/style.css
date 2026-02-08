@@ -174,8 +174,9 @@ body {
     }
 
     .apresentacao__imagem__curriculo {
-    position: static;
-    top: auto;
+        width: 60%;
+        max-width: 420px;
+        height: auto;
 }
 
     .apresentacao__conteudo {
